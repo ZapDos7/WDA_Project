@@ -1,0 +1,38 @@
+//when result of jquery, name the var $ sth so i remember it's jquery
+//eg var $name = $('input[name="namep"]');
+
+//elegxe panta selector returns sth -- length != 0
+
+//should blacklist 10min mails and stuff based on domain names 
+//whitelist is more expensive but huh
+
+
+~ php --> $var
+case sensitive
+$this = self => i dont use it as a generic variable
+oi sta8eres oxi $name
+
+
+PHP_EOL = \n
+
+Get The Length of an Array - The count() Function
+
+for == like in C
+also has foreach which is pretty dope apparently
+
+Associative arrays are arrays that use named keys that you assign to them.
+
+php loves tables
+
+functions --> take care of default values like C :)
+
+just check the documentation and nail this
+
+notepad fucks up some bits with utf-8 D:
+=> i convert w/o BOM so no problems
+
+image madgik -> make my own captcha :O
+
+php is ma hoe
+
+superglobals are baes when db
