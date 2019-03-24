@@ -1,0 +1,18 @@
+﻿~διερμηνευμενη js != c,c++ (compiled)
+~js is oop :P
+~js in head script (meh)
+or in seperate file
+or bottom => no lag
+~async! for quick
+<script>
+~defer => load later on cause idgaf
+~semicolons pls
+~16+"0" = 16 + str(0) = str(160) 
+~To add several script files to one page  - use several script tags:
+~namespaces ~= function scopes as usual
+
+~elegxos forms --> client side not server side (better ux and also safer)
+
+~we can valildate via html5 too but make sure via js
+
+~jquery --> select specific elements from dom
